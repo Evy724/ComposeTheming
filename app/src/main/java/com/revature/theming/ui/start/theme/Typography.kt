@@ -1,4 +1,4 @@
-package com.codelab.theming.ui.start.theme
+package com.revature.theming.ui.start.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.codelab.theming.R
+import com.revature.theming.R
 
 private val Montserrat = FontFamily(
     Font(R.font.montserrat_regular),
